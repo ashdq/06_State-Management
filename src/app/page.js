@@ -21,12 +21,22 @@
   // );
 // }
 
-import UserProfile from './components/UserProfile';
+//import UserProfile from './components/UserProfile';
+
+//export default function Coba() {
+  //return (
+    //<div className="space-y-8">
+      //<UserProfile />
+    //</div>
+  //);
+//}
+
+import ProductFilter from './components/ProductFilter';
 
 export default function Coba() {
   return (
-    <div className="space-y-8">
-      <UserProfile />
+    <div>
+      <ProductFilter />
     </div>
   );
 }
