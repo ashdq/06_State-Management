@@ -46,4 +46,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ### Praktikum 1
 ![alt text](asset/1.png)
 
+### Praktikum 2
+![alt text](asset/2.gif)
+
 
